@@ -1,7 +1,7 @@
 import requests
 import json
 
-post_id = 101
+post_id = 100
 url = f'https://jsonplaceholder.typicode.com/posts/{post_id}'
 
 updated_post = {
